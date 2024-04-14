@@ -2,6 +2,7 @@
 
 ## About Me
 
-**Họ và tên:** [Nguyễn Hải Đăng]
+**Họ và tên:** 
 
-Mô tả ngắn về bản thân và dự án của bạn tại đây...
+Nguyễn Hải Đăng - 2011064530
+Vũ Tuấn Tú - 2011061995
